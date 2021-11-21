@@ -54,10 +54,10 @@ footer {
 #logo-store {
   width: 15rem;
 }
-.mensaje-props {
+/* .mensaje-props {
   text-align: center;
   background-color: rgb(53, 51, 51);
-}
+} */
 .mensaje-props:hover {
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.4);
   transform: translateY(-3%);
